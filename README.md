@@ -1,2 +1,3 @@
 # Python-for-Data-Science
-Necessary python programming required for data science
+Getting Started with Python and Data Science
+Here you'll find the basic and necessary python programming that one should must know for Data Science
